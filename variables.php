@@ -1,0 +1,3 @@
+<?php
+$titulo="Clínica BIENSANITOS";
+?>
